@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100vh;
+}
+
+#welcome-section {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+  display: block;
+  height: 100vh;
+}
+
+#navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
